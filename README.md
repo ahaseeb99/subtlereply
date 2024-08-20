@@ -8,3 +8,20 @@ NodeJS: Handles backend operations, including real-time AI-powered messaging, da
 
 **Purpose**:
 The Subtle Reply project is designed to enhance user engagement and drive sales by delivering targeted product suggestions when users are most receptive. By integrating AI with social media interactions, the platform provides a unique and effective way to connect with potential customers.
+
+
+
+# SubtleReplyAI
+
+## Setup
+Clone the repository and install dependencies:
+```
+git clone <REPOSITORY_URL>
+cd subtlereplyai
+npm install
+```
+
+## Scripts
+- **Dev**: `npm run dev`
+- **Build**: `npm run build`
+- **Preview**: `npm run preview`

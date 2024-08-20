@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e1102bb.css",
+    "main.js": "/static/js/main.c4a75046.js",
+    "static/js/453.78be9576.chunk.js": "/static/js/453.78be9576.chunk.js",
+    "static/media/body-bg-hero-pattern.png": "/static/media/body-bg-hero-pattern.84dc3139c55998da728b.png",
+    "static/media/avatar.png": "/static/media/avatar.1174a8f409fa1c06d8c7.png",
+    "static/media/avatar-2.png": "/static/media/avatar-2.3ad2b602f6c4ea63645c.png",
+    "static/media/icon-paypal.svg": "/static/media/icon-paypal.4edb5abe1c16231c509a641d5214843c.svg",
+    "static/media/icon-master.svg": "/static/media/icon-master.2c1bed1b527dad9ad44af3cc67470418.svg",
+    "static/media/icon-visa.svg": "/static/media/icon-visa.d6593a3e626ad0fd684aa8ab29aef05d.svg",
+    "static/media/icon-downgrade.svg": "/static/media/icon-downgrade.65535d322f43085b22abe94aeb066ed0.svg",
+    "static/media/icon-engagement.svg": "/static/media/icon-engagement.a780fd483244a260749b87096d1e94eb.svg",
+    "static/media/icon-reddit.svg": "/static/media/icon-reddit.64d3b4cd81304d9d4e435434c28303c6.svg",
+    "static/media/icon-curly-arrow.svg": "/static/media/icon-curly-arrow.19bcb03943c814c70996.svg",
+    "static/media/icon-chat-fwd.svg": "/static/media/icon-chat-fwd.413af884df4babd0666d92cfe5343b5e.svg",
+    "static/media/icon-eye-outline.svg": "/static/media/icon-eye-outline.b5fbdade62429e65978afbdb538cad08.svg",
+    "static/media/icon-eye.svg": "/static/media/icon-eye.f527bafb543ca97af92800d38eacfbb7.svg",
+    "static/media/icon-account.svg": "/static/media/icon-account.112df11ad5da4c888bea245c31c7a7c5.svg",
+    "static/media/icon-list-check.svg": "/static/media/icon-list-check.557ef2f6322410632a0b.svg",
+    "index.html": "/index.html",
+    "static/media/icon-trash-bin.svg": "/static/media/icon-trash-bin.fb7c4cd1bfbff54e64d960872c7735a1.svg",
+    "static/media/icon-list-check-alt.svg": "/static/media/icon-list-check-alt.33f5c9f0c03d0f5a82e6.svg",
+    "static/media/icon-logout.svg": "/static/media/icon-logout.338e9f02e2efe909ad95fdc2a32bf9f4.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.9954c7c2a5fca1b2b7fa80925c7c30c1.svg",
+    "static/media/icon-plus.svg": "/static/media/icon-plus.6275e95d5f5c100ce59c8121c86b76bb.svg",
+    "static/media/icon-chevron-down.svg": "/static/media/icon-chevron-down.ccc96756f27750e6fcf5167d43c3bf0d.svg",
+    "main.3e1102bb.css.map": "/static/css/main.3e1102bb.css.map",
+    "main.c4a75046.js.map": "/static/js/main.c4a75046.js.map",
+    "453.78be9576.chunk.js.map": "/static/js/453.78be9576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e1102bb.css",
+    "static/js/main.c4a75046.js"
+  ]
+}
